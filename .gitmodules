@@ -114,3 +114,7 @@
 	path = partner-contact
 	url = git@github.com:OCA/partner-contact.git
 	branch = 15.0
+[submodule "server-auth"]
+	path = server-auth
+	url = git@github.com:OCA/server-auth.git
+	branch = 15.0
