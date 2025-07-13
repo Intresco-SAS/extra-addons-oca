@@ -2,3 +2,111 @@
 	path = project
 	url = git@github.com:OCA/project.git
 	branch = 15.0
+[submodule "stock-logistics-barcode"]
+	path = stock-logistics-barcode
+	url = git@github.com:OCA/stock-logistics-barcode
+	branch = 15.0
+[submodule "pos"]
+	path = pos
+	url = git@github.com:OCA/pos
+	branch = 15.0
+[submodule "agreement"]
+	path = agreement
+	url = git@github.com:OCA/agreement
+	branch = 15.0
+[submodule "account-invoice-reporting"]
+	path = account-invoice-reporting
+	url = git@github.com:OCA/account-invoice-reporting
+	branch = 15.0
+[submodule "web"]
+	path = web
+	url = git@github.com:OCA/web
+	branch = 15.0
+[submodule "timesheet"]
+	path = timesheet
+	url = git@github.com:OCA/timesheet
+	branch = 15.0
+[submodule "stock-logistics-workflow"]
+	path = stock-logistics-workflow
+	url = git@github.com:OCA/stock-logistics-workflow
+	branch = 15.0
+[submodule "reporting-engine"]
+	path = reporting-engine
+	url = git@github.com:OCA/reporting-engine
+	branch = 15.0
+[submodule "credit-control"]
+	path = credit-control
+	url = git@github.com:OCA/credit-control
+	branch = 15.0
+[submodule "contract"]
+	path = contract
+	url = git@github.com:OCA/contract
+	branch = 15.0
+[submodule "bank-statement-import"]
+	path = bank-statement-import
+	url = git@github.com:OCA/bank-statement-import
+	branch = 15.0
+[submodule "bank-payment"]
+	path = bank-payment
+	url = git@github.com:OCA/bank-payment
+	branch = 15.0
+[submodule "account-reconcile"]
+	path = account-reconcile
+	url = git@github.com:OCA/account-reconcile
+	branch = 15.0
+[submodule "account-financial-reporting"]
+	path = account-financial-reporting
+	url = git@github.com:OCA/account-financial-reporting
+	branch = 15.0
+[submodule "brand"]
+	path = brand
+	url = git@github.com:OCA/brand
+	branch = 15.0
+[submodule "product-attribute"]
+	path = product-attribute
+	url = git@github.com:OCA/product-attribute
+	branch = 15.0
+[submodule "account-financial-tools"]
+	path = account-financial-tools
+	url = git@github.com:OCA/account-financial-tools
+	branch = 15.0
+[submodule "server-tools"]
+	path = server-tools
+	url = git@github.com:OCA/server-tools
+	branch = 15.0
+[submodule "server-ux"]
+	path = server-ux
+	url = git@github.com:OCA/server-ux
+	branch = 15.0
+[submodule "server-backend"]
+	path = server-backend
+	url = git@github.com:OCA/server-backend
+	branch = 15.0
+[submodule "account-analytic"]
+	path = account-analytic
+	url = git@github.com:OCA/account-analytic
+	branch = 15.0
+[submodule "account-payment"]
+	path = account-payment
+	url = git@github.com:OCA/account-payment
+	branch = 15.0
+[submodule "account-invoicing"]
+	path = account-invoicing
+	url = git@github.com:OCA/account-invoicing
+	branch = 15.0
+[submodule "sale-workflow"]
+	path = sale-workflow
+	url = git@github.com:OCA/sale-workflow
+	branch = 15.0
+[submodule "manufacture"]
+	path = manufacture
+	url = git@github.com:OCA/manufacture
+	branch = 15.0
+[submodule "stock-logistics-warehouse"]
+	path = stock-logistics-warehouse
+	url = git@github.com:OCA/stock-logistics-warehouse
+	branch = 15.0
+[submodule "purchase-workflow"]
+	path = purchase-workflow
+	url = git@github.com:OCA/purchase-workflow
+	branch = 15.0
