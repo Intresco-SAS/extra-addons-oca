@@ -117,3 +117,4 @@
 [submodule "account-financial-tools"]
 	path = account-financial-tools
 	url = git@github.com:Intresco-SAS/account-financial-tools.git
+	branch = 15.0
