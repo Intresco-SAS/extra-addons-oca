@@ -66,10 +66,6 @@
 	path = product-attribute
 	url = git@github.com:OCA/product-attribute
 	branch = 15.0
-[submodule "account-financial-tools"]
-	path = account-financial-tools
-	url = git@github.com:Intresco-SAS/account-financial-tools.git
-	branch = 15.0
 [submodule "server-tools"]
 	path = server-tools
 	url = git@github.com:OCA/server-tools
@@ -118,6 +114,6 @@
 	path = server-auth
 	url = git@github.com:OCA/server-auth.git
 	branch = 15.0
-[submodule "extra-addons-oca/account-financial-tools"]
-	path = extra-addons-oca/account-financial-tools
+[submodule "account-financial-tools"]
+	path = account-financial-tools
 	url = git@github.com:Intresco-SAS/account-financial-tools.git
