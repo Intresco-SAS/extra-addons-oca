@@ -114,3 +114,7 @@
 	path = account-payment
 	url = git@github.com:Intresco-SAS/account-payment.git
 	branch = 18.0
+[submodule "pos"]
+	path = pos
+	url = git@github.com:Intresco-SAS/pos.git
+	branch = 18.0
