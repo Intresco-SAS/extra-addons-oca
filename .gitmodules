@@ -74,10 +74,6 @@
 	path = server-ux
 	url = git@github.com:OCA/server-ux
 	branch = 18.0
-[submodule "server-backend"]
-	path = server-backend
-	url = git@github.com:OCA/server-backend
-	branch = 18.0
 [submodule "account-analytic"]
 	path = account-analytic
 	url = git@github.com:OCA/account-analytic
