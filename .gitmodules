@@ -113,3 +113,7 @@
 [submodule "server-backend"]
 	path = server-backend
 	url = git@github.com:OCA/server-backend.git
+[submodule "account-analytic"]
+	path = account-analytic
+	url = git@github.com:Intresco-SAS/account-analytic.git
+	branch = 18.0
